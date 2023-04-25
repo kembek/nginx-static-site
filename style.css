@@ -1,0 +1,9 @@
+.box {
+  padding: 12px 8px;
+  text-align: center;
+  border: 2px solid black;
+}
+
+.box:hover {
+  background-color: tomato;
+}
